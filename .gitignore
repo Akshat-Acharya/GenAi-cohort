@@ -3,3 +3,6 @@ venv
 __pycache__
 
 nodejs_test.pdf
+
+node_modules
+mcp.json
